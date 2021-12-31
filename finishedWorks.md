@@ -14,3 +14,7 @@ Các thành phần đã hoàn thành:
   + Hiển thị sách theo thể loại
  3. Trang đăng ký tài khoản
  4. Trang đăng nhập
+ 5. Trang chi tiết sách
+ 6. Trang giỏ hàng
+ 7. Thêm sách vào giỏ hàng
+ 8. Thanh toán
